@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "imgURL": "./animal-1.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "imgURL": "./animal-2.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "imgURL": "./animal-3.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "imgURL": "./animal-4.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "imgURL": "./animal-5.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "imgURL": "./animal-6.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "imgURL": "./animal-7.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "imgURL": "./animal-8.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "imgURL": "./animal-9.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "imgURL": "./animal-10.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "imgURL": "./animal-11.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 12,
+        "imgURL": "./animal-12.jpeg",
+        "isClicked": false
+    }
+]

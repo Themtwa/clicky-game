@@ -1,10 +1,10 @@
-import React from './node_modules/react'
+import React from 'react'
 import './styles.css'
 
 function Header(props) {
     return (
         <header>
-                <div className="title">Vader Click</div>
+                <div className="title">Matt's Animals</div>
                 <div className="scoreboard">Score: {props.score} | Top Score: {props.topScore}</div>
         </header>
 

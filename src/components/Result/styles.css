@@ -1,0 +1,29 @@
+.spans {
+    font-size: 34px;
+}
+
+span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.quote {
+    font-size: 30px;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    text-align: center;
+}
+
+.wrong {
+    animation-name: wrong;
+    animation-duration: 4s;
+}
+
+.correct {
+    animation-name: correct;
+    animation-duration: 4s;
+}
