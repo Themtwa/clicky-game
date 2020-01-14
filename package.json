@@ -33,8 +33,17 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^2.2.0",
-    "homepage": "http://{Themtwa}.github.io/{clicky-game}/"
-  }
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Themtwa/clicky-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Themtwa/clicky-game/issues"
+  },
+  "homepage": "https://Themtwa.github.io/clicky-game/"
 }
